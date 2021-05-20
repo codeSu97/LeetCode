@@ -51,7 +51,7 @@ public int[] twoSum(int[] nums, int target) {
 }
 ```
 2. [Python3](./two_sum.py)
-```python
+```python3
 def twoSum(self, nums: List[int], target: int) -> List[int]:
     tmp = {}
     for i, v in enumerate(nums):
@@ -61,7 +61,7 @@ def twoSum(self, nums: List[int], target: int) -> List[int]:
         tmp[v] = i
 ```
 3. [Go](./two_sum.go)
-```golang
+```go
 func twoSum(nums []int, target int) []int {
 	m := make(map[int]int)
 	for i := 0; i < len(nums); i++ {
