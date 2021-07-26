@@ -1,5 +1,5 @@
 class Solution:
-    def firstBadVersion(self, n):
+    def firstBadVersion(self, n) -> int:
         """
         :type n: int
         :rtype: int
