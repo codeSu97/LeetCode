@@ -9,7 +9,7 @@
 > 你可以通过调用 bool isBadVersion(version) 接口来判断版本号 version 是否在单元测试中出错。
 > 实现一个函数来查找第一个错误的版本。你应该尽量减少对调用 API 的次数。
 
- 
+
 **示例 1：**
 ```sh
 输入：n = 5, bad = 4
@@ -45,6 +45,9 @@
 2. 如果mid为true：
     1. mid-1 为false，那么第一个错误版本为mid
     2. mid-1 为true，那么第一个错误版本在[1, mid-1)之间
+
+**实现**
+
 
 1. [Java](./Solution.java)
 ```java

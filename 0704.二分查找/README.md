@@ -32,6 +32,8 @@
 4. nums[mid] < target，则target在 (mid, high]之间，把low移到mid+1处
 5. nums[mid] > target，则target在 [low, mid)之间，把high移到mid-1处
 
+**实现**
+
 1. [Java](./Solution.java)
 ```java
 public int search(int[] nums, int target) {

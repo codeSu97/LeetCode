@@ -49,7 +49,10 @@
 5. nums[mid] > target，则target在 [low, mid)之间，把high移到mid-1处
 6. 若没找到该值，那么target应该插入当前left处
 
+**实现**
+
 1. [Java](./Solution.java)
+
 ```java
 public int searchInsert(int[] nums, int target) {
     int left = 0;

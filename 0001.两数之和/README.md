@@ -33,8 +33,11 @@
 - 只会存在一个有效答案
 
 ### 解法
+
 **思路**
-创建字典存放数组的值与其对应的下标 遍历数组，当发现 target-nums[i] 在字典中，则说明找到了
+		创建字典存放数组的值与其对应的下标 遍历数组，当发现 target-nums[i] 在字典中，则说明找到了
+
+**实现**
 
 1. [Java](./TwoSum.java)
 ```java
@@ -51,7 +54,7 @@ public int[] twoSum(int[] nums, int target) {
 }
 ```
 2. [Python3](./two_sum.py)
-```python3
+```python
 def twoSum(self, nums: List[int], target: int) -> List[int]:
     tmp = {}
     for i, v in enumerate(nums):
