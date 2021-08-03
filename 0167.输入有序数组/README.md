@@ -1,4 +1,4 @@
-# [278.两数之和Ⅱ - 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/)
+# [278. 两数之和Ⅱ - 第一个错误的版本](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 
 ## 题目描述
 
