@@ -14,4 +14,5 @@ LeetCode 笔记
 | [0344.反转字符串](./0344.反转字符串/README.md) | `递归` `双指针` `字符串` | [Java题解](./0344.反转字符串/Solution.java) | [Python题解](./0344.反转字符串/solution.py) | [Go题解](./0344.反转字符串/solution.go) |
 | [0557.反转字符串中的单词Ⅲ](./0557.反转字符串中的单词Ⅲ/README.md) | `双指针` `字符串` | [Java题解](./0557.反转字符串中的单词Ⅲ/Solution.java) | [Python题解](./0557.反转字符串中的单词Ⅲ/solution.py) | [Go题解](./0557.反转字符串中的单词Ⅲ/solution.go) |
 | [0704.二分查找](./0704.二分查找/README.md) | `数组` `二分查找` | [Java题解](./0704.二分查找/Solution.java) | [Python题解](./0704.二分查找/solution.py) | [Go题解](./0704.二分查找/solution.go) |
+| [0876.链表的中间节点](./0876.链表的中间节点/README.md) | `链表` `二分查找` | [Java题解](./0876.链表的中间节点/Solution.java) | [Python题解](./0876.链表的中间节点/solution.py) | [Go题解](./0876.链表的中间节点/solution.go) |
 | [0977.有序数组的平方](./0977.有序数组的平方/README.md) | `数组` `双指针` `排序` | [Java题解](./0977.有序数组的平方/Solution.java) | [Python题解](./0977.有序数组的平方/solution.py) | [Go题解](./0977.有序数组的平方/solution.go) |
